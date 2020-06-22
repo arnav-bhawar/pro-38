@@ -1,0 +1,16 @@
+class Player{
+    constructor(){
+        this.index = null;
+        this.distance = 0;
+        this.name = null;
+    }
+
+    update(name){
+        var playerIndex = "player" + playerCount;
+        name:name;
+    
+    
+    }
+
+
+}
